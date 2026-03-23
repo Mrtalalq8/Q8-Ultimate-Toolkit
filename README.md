@@ -28,7 +28,7 @@ Clean, fast, and user-friendly interface.
 
 ## 📸 Preview
 
-> (![UI]([https://your-image-link.png](https://storage.ko-fi.com/cdn/useruploads/display/5898b112-3bae-4602-87de-2d1dabdaf96a_1png.png)))
+> ([Add screenshots here later](https://storage.ko-fi.com/cdn/useruploads/display/5898b112-3bae-4602-87de-2d1dabdaf96a_1png.png))
 
 ---
 
